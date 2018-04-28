@@ -33,7 +33,7 @@ var articles = {
     "article-three" : {
         title: "Article Two | Nikhil",
         heading: "Article Two",
-        date: "April 20,2018",
+        date: "April 23,2018",
         content: `
             <p>
             	This is article two. 
